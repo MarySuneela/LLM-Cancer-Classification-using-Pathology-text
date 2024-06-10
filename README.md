@@ -30,7 +30,9 @@ Advanced classification techniques, specifically Naive Bayes and Logistic Regres
 # Implementation
 The implementation involves a structured program for data processing, model training, testing, and cross-validation. Both Naive Bayes and Logistic Regression models are evaluated based on key performance metrics like accuracy, precision, recall, and F1-score.
 
+
 <img width="478" alt="image" src="https://github.com/MarySuneela/LLM-Cancer-Classification-using-Pathology-text/assets/107396938/da79a76f-2d1d-4919-9f9d-c4b2b0225e04">
+
 
 <img width="472" alt="image" src="https://github.com/MarySuneela/LLM-Cancer-Classification-using-Pathology-text/assets/107396938/7f46b2fc-9353-4bbc-a095-f35b0155cad3">
 
