@@ -1,5 +1,7 @@
 # LLM-Cancer-Classification-using-Pathology-text
 
+Dataset used: TCGA_Reports (https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
+
 # Project Overview
 This project explores the integration of advanced large language models for cancer classification through the analysis of pathology text data. Utilizing Natural Language Processing (NLP) techniques, the goal is to enhance the understanding of various cancer pathologies and streamline clinical decision-making processes.
 
