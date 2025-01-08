@@ -6,7 +6,7 @@ Dataset used: TCGA_Reports (https://www.cancer.gov/ccg/research/genome-sequencin
 This project explores the integration of advanced large language models for cancer classification through the analysis of pathology text data. Utilizing Natural Language Processing (NLP) techniques, the goal is to enhance the understanding of various cancer pathologies and streamline clinical decision-making processes.
 
 # Abstract
-This research initiative delves into the synergistic integration of advanced large language models in the domain of cancer classification, specifically through the analysis of pathology text data. Using sophisticated NLP techniques, the project aims to elevate understanding of diverse cancer pathologies and enhance clinical decision-making processes.
+This project leverages GPT-3 and LangChain to enhance cancer classification using pathology text data. By embedding large datasets into a Vector Store, we enable efficient data access and improved computational performance. A key comparison highlights that using an index significantly improves the model's ability to generate accurate, context-specific responses compared to operating without one. Utilizing pathology reports from trusted sources like TCGA, this study demonstrates the potential of NLP and LLMs in advancing diagnostic precision and personalized treatment in healthcare.
 
 # Introduction
 One of the most significant areas of research in healthcare is the intersection of medical data analysis and NLP techniques. This project leverages NLP to extract valuable insights from complex, unstructured medical texts in the Cancer Genome Atlas (TCGA).
